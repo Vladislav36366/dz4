@@ -1,4 +1,4 @@
-my_string = input('Напишите какие впечатления от курса: ')
+my_string = input('Напишите ваше впечатление от курса: ')
 number_of_characters = my_string
 print('Количество символов в строке:', len(my_string))
 print(my_string .upper()+',', 'количество символов в строке:',len(my_string))
